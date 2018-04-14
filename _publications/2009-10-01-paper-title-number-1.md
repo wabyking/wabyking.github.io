@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: October, 2015
-venue: 'CIKM 2015'
+venue: 'CIKM'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2806602'
-citation: 'Chen Yongqiang, Zhang Peng, Song Dawei, **Wang Benyou**. (2015). &quot;A Real-Time Eye Tracking Based Query Expansion Approach via Latent Topic Modeling.&quot; <i>CIKM 2015</i>. pp. 1719-1722.'
+citation: 'Chen Yongqiang, Zhang Peng, Song Dawei, <b>Wang Benyou</b>. (2015). &quot;A Real-Time Eye Tracking Based Query Expansion Approach via Latent Topic Modeling.&quot; <i>CIKM 2015</i>. pp. 1719-1722.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
