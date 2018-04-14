@@ -1,0 +1,10 @@
+---
+title: "How Users Select Query Suggestions Under Different Satisfaction States?."
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Eye-track IR'
+date: July, 2017
+venue: 'CCIR'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-68699-8_8'
+citation: 'Shang Zhenguo, Li Jinfei, Zhang Peng, Song Dawei, <b>Wang Benyou</b>. (2018). &quot;How Users Select Query Suggestions Under Different Satisfaction States?.&quot; <i>CCIR</i>. pp. 93-105'
+---
