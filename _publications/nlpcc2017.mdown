@@ -6,5 +6,5 @@ excerpt: 'A model in QA task'
 date:  November, 2017
 venue: 'NLPCC'
 paperurl: 'papers/nlpcc2017.pdf'
-citation: 'Su Zhan, <b>Wang Benyou</b>, Niu Jiabin, Tao Shuchang, Zhang Peng, Song Dawei. (2017). &quot;Enhanced Embedding based Attentive Pooling Network for Answer Selection.&quot; <i>NLPCC</i>. 
+citation: 'Su Zhan, <b>Wang Benyou</b>, Niu Jiabin, Tao Shuchang, Zhang Peng, Song Dawei. (2017). &quot;Enhanced Embedding based Attentive Pooling Network for Answer Selection.&quot; <i>NLPCC</i>.' 
 ---
